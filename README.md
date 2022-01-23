@@ -12,7 +12,7 @@ Esto (y que era un proyecto que me mandaron en clase) fue lo que me inspiró a h
 
 ## ᕙ(`▿´)ᕗ Tecnologías utilizadas
 
-Este proyecto únciamente ha utilizado Bootstrap.
+Este proyecto únicamente ha utilizado Bootstrap.
 
 ## (ง︡'-'︠)ง Problemas encontrados en el desarrollo
 
